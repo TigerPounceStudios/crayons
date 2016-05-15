@@ -1,1 +1,3 @@
 *.pyc
+i-tutorial/*
+virtualenv/*
