@@ -1,3 +1,4 @@
-*.pyc
+*.py[cod]
 i-tutorial/*
 virtualenv/*
+.cache
