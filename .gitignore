@@ -1,4 +1,6 @@
 *.py[cod]
+__pycache__/
+virtualenv/
+*.sqlite3
 i-tutorial/*
-virtualenv/*
-.cache
+.DS_Store
