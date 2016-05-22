@@ -16,7 +16,7 @@ PYTEST_BIN := py.test
 devsetup: virtualenv checkversions pythondeps
 
 pythondeps:
-	cd markers && pip install -r requirements.txt
+	pip install -r requirements.txt
 
 checkversions:
 	@python --version | grep -q 3.5. || { echo "Need Python 3.5" && exit 1; }
