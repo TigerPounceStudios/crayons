@@ -99,6 +99,8 @@ class Base(Configuration):
 
     LANGUAGE_CODE = 'en-us'
 
+    STATIC_ROOT = '/static'
+
     TIME_ZONE = 'UTC'
 
     USE_I18N = True
