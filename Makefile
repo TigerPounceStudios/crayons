@@ -1,4 +1,4 @@
-SHELL := /bin/bash
+sSHELL := /bin/bash
 .SUFFIXES:
 
 
@@ -34,8 +34,14 @@ coveragereport:
 runserver:
 	cd markers && gunicorn -b "0.0.0.0:$(BACKEND_PORT)" --error-logfile - markers.wsgi
 
-devserver:
-	cd markers && python manage.py runserver $(BACKEND_PORT)
+devbackend:
+	python pens/manage.py $(BACKEND_PORT)
+
+devfrontend:
+	cd pens && ionic serve -p $(FRONTEND_PORT)
+
+devboth:
+	concurrently "python pens/manage.py $(BACKEND_PORT)" "cd pens && ionic serve -p $(FRONTEND_PORT)"
 
 clean:
 	find . -type f -name '*.py[co]' -delete

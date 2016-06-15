@@ -20,7 +20,9 @@ make tests
 
 4. Run server
 ```bash
-make devserver # to run local django server
+make devbackend # to run local django server
+make devfrontend # to run local ionic server
+make devboth # to run both serves; closes both if one crashes
 make runserver # to run gunicorn server
 ```
 
