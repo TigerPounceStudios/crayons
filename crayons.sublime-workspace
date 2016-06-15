@@ -1,0 +1,563 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Hero",
+				"HeroDetailComponent"
+			],
+			[
+				"Heroes",
+				"HeroesComponent"
+			],
+			[
+				"tag_",
+				"tags_decorator"
+			],
+			[
+				"func",
+				"func_wrapper"
+			],
+			[
+				"sel",
+				"selectedHero"
+			],
+			[
+				"selected",
+				"selected"
+			],
+			[
+				"heroes",
+				"heroes"
+			],
+			[
+				"hero",
+				"heroes"
+			],
+			[
+				"get",
+				"getHeroes"
+			],
+			[
+				"permissi",
+				"permission_classes"
+			],
+			[
+				"CellCa",
+				"CellCarrierSerializer"
+			],
+			[
+				"serl",
+				"serializer_class"
+			],
+			[
+				"Cell",
+				"CellCarrier"
+			],
+			[
+				"serial",
+				"serializer_class"
+			],
+			[
+				"PollChoic",
+				"PollChoiceSerializer"
+			],
+			[
+				"PollResponse",
+				"PollResponseSerializer"
+			],
+			[
+				"permis",
+				"permission_classes"
+			],
+			[
+				"perm",
+				"permission_classes"
+			],
+			[
+				"VoterS",
+				"VoterSerializer"
+			],
+			[
+				"seri",
+				"serializer_class"
+			],
+			[
+				"ser",
+				"serializer_class"
+			],
+			[
+				"gen",
+				"GenericAPIView"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"JSON",
+				"JSONResponse"
+			],
+			[
+				"Poll",
+				"PollSerializer"
+			],
+			[
+				"JSONRe",
+				"JSONResponse"
+			],
+			[
+				"sy",
+				"STYLE_CHOICES"
+			],
+			[
+				"Lan",
+				"LANGUAGE_CHOICES"
+			],
+			[
+				"styl",
+				"STYLE_CHOICES"
+			],
+			[
+				"lan",
+				"LANGUAGE_CHOICES"
+			],
+			[
+				"get_all",
+				"get_all_styles"
+			],
+			[
+				"confirmation",
+				"confirmationNum"
+			],
+			[
+				"carrie",
+				"carrier"
+			],
+			[
+				"virtualen",
+				"virtualenv_folder"
+			],
+			[
+				"source",
+				"source_folder"
+			],
+			[
+				"sourc",
+				"source_folder"
+			],
+			[
+				"virtual",
+				"virtualenv_folder"
+			],
+			[
+				"sec",
+				"secret_key"
+			],
+			[
+				"secret",
+				"secret_key_file"
+			],
+			[
+				"second_",
+				"second_poll_choice"
+			],
+			[
+				"poll",
+				"poll_choice"
+			],
+			[
+				"desr",
+				"deserialized_obj"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"gle",
+				"Glue - Launch"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"error",
+				"TypeScript: Show Error List"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package  ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 291.0,
+		"history":
+		[
+			"exit()",
+			"quit90",
+			"quit()",
+			"Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/slethik/Documents/crayons"
+	],
+	"file_history":
+	[
+		"/Users/slethik/Documents/crayons/pens/.gitignore",
+		"/Users/slethik/Documents/MyIonic2Project/www/index.html",
+		"/Users/slethik/Documents/crayons/pens/ionic.project",
+		"/Users/slethik/Documents/ionic-skeleton/package.json",
+		"/Users/slethik/Documents/ng-skeleton/package.json",
+		"/Users/slethik/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/slethik/Documents/crayons/pens/package.json",
+		"/Users/slethik/Documents/crayons/pens/app/package.json",
+		"/Users/slethik/Documents/path-of-heroes/app/dashboard.component.html",
+		"/Users/slethik/Documents/path-of-heroes/app/app.component.ts",
+		"/Users/slethik/Documents/path-of-heroes/app/hero.service.ts",
+		"/Users/slethik/Documents/path-of-heroes/app/hero-detail.component.html",
+		"/Users/slethik/Documents/path-of-heroes/app/hero-detail.component.ts",
+		"/Users/slethik/Documents/path-of-heroes/app/dashboard.component.ts",
+		"/Users/slethik/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/slethik/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/slethik/Desktop/inject_tut.py",
+		"/Users/slethik/Desktop/injectables.py",
+		"/Users/slethik/.bash_profile",
+		"/Users/slethik/Documents/path-of-heroes/app/mock-heroes.ts",
+		"/Users/slethik/Documents/path-of-heroes/app/terminal.glue",
+		"/Users/slethik/Library/Application Support/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/Users/slethik/Documents/path-of-heroes/app/hero.ts",
+		"/Users/slethik/Documents/ponyracer/races-cmp/races.component.ts",
+		"/Users/slethik/Documents/ponyracer/app/app.component.ts",
+		"/Users/slethik/Documents/ponyracer/races/races_cmp.ts",
+		"/Users/slethik/Documents/ponyracer/ponyracer/main.ts",
+		"/Users/slethik/Documents/ponyracer/index.html",
+		"/Users/slethik/Documents/ponyracer/ponyracer/main.js",
+		"/Users/slethik/Documents/ponyracer/ponyracer/app.component.js.map",
+		"/Users/slethik/Documents/ponyracer/ponyracer/app.component.js",
+		"/Users/slethik/Documents/angular2-tutorial/app/hero.ts",
+		"/Users/slethik/Documents/angular2-tutorial/app/hero-detail.component.ts",
+		"/Users/slethik/Documents/angular2-tutorial/app/app.component.ts",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/app/races/races.component.js.map",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/app/races/races.component.js",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/app/ponyracer.component.ts",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/app/races/races.component.css",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/app/races/index.ts",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/app/races/races.component.html",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/app/pony/pony.component.ts",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/index.html",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer/src/app/pony/index.ts",
+		"/Users/slethik/Documents/angular2-tutorial/bootstrap.ts",
+		"/Users/slethik/Documents/angular2-tutorial/index.html",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer-app.component.ts",
+		"/Users/slethik/Documents/angular2-tutorial/ponyracer-app.component.js",
+		"/Users/slethik/Documents/angular2-tutorial/bootstrap.js.map",
+		"/Users/slethik/Documents/angular2-tutorial/tsconfig.json",
+		"/Users/slethik/Documents/angular2-tutorial/sample.js",
+		"/Users/slethik/Documents/angular2-tutorial/page.html",
+		"/Users/slethik/Documents/crayons/pens/app/app.js",
+		"/Users/slethik/Documents/crayons/pens/app/pages/page1/page1.html",
+		"/Users/slethik/Documents/crayons/pens/www/index.html",
+		"/Users/slethik/Google Drive/Work/Report Card SQL/report_card_main.sql",
+		"/Users/slethik/Documents/QMC/Assets/Resources/Prefab/PlayableLevel.prefab",
+		"/Users/slethik/Documents/gif-encoder/AnimatedGifEncoder Test/Assets/AnimatedGifEncoderTest.cs",
+		"/Users/slethik/Documents/QMC/Assets/Resources/Scripts/ToolScripts/ToolManager.cs",
+		"/Users/slethik/Documents/angular2-tour-of-heroes/typings.json",
+		"/Users/slethik/Documents/angular2-tour-of-heroes/tsconfig.json",
+		"/Users/slethik/Documents/angular2-tour-of-heroes/package.json",
+		"/Users/slethik/Documents/angular2-tour-of-heroes/typing.json",
+		"/Users/slethik/Documents/angular_tutorial/systemjs.config.js",
+		"/Users/slethik/Documents/angular_tutorial/app/app.component.ts",
+		"/Users/slethik/Documents/angular_tutorial/app/main.ts",
+		"/Users/slethik/Documents/angular_tutorial/style.css",
+		"/Users/slethik/Documents/angular_tutorial/index.html",
+		"/Users/slethik/Documents/angular_tutorial/app/main.js",
+		"/Users/slethik/Documents/angular_tutorial/app/app.component.js",
+		"/Users/slethik/Documents/angular_tutorial/app/index.html",
+		"/Users/slethik/Documents/crayons/i-tutorial/app/pages/hello-ionic/hello-ionic.js",
+		"/Users/slethik/Documents/crayons/i-tutorial/app/pages/hello-ionic/hello-ionic.html",
+		"/Users/slethik/Documents/crayons/i-tutorial/app/app.html",
+		"/Users/slethik/Documents/crayons/i-tutorial/app/app.js",
+		"/Users/slethik/Documents/crayons/i-tutorial/www/index.html",
+		"/Users/slethik/Documents/crayons/i-tutorial/app/pages/page1/page1.html",
+		"/Users/slethik/Documents/crayons/pens/www/templates/playlist.html",
+		"/Users/slethik/Documents/crayons/pens/www/templates/login.html",
+		"/Users/slethik/Documents/crayons/pens/www/templates/playlists.html",
+		"/Users/slethik/Documents/crayons/pens/www/templates/browse.html",
+		"/Users/slethik/Documents/crayons/markers/voters/views.py",
+		"/Users/slethik/Documents/crayons/markers/voters/models.py",
+		"/Users/slethik/Google Drive/Projects/testing-goat/superlists/deploy_tools/fabfile.py",
+		"/Users/slethik/Documents/crayons/markers/voters/phone_validation.py",
+		"/Users/slethik/Documents/crayons/markers/voters/serializers.py",
+		"/Users/slethik/Documents/crayons/markers/markers/settings.py",
+		"/Users/slethik/Documents/crayons/markers/polls/models.py",
+		"/Users/slethik/Documents/crayons/markers/polls/serializers.py",
+		"/Users/slethik/Documents/crayons/markers/voters/urls.py",
+		"/Users/slethik/Documents/crayons/markers/polls/views.py",
+		"/Users/slethik/Documents/crayons/markers/polls/urls.py",
+		"/Users/slethik/Documents/crayons/markers/markers/permissions.py",
+		"/Users/slethik/Documents/crayons/markers/voters/permissions.py",
+		"/Users/slethik/Documents/crayons/markers/polls/permissions.py",
+		"/Users/slethik/Documents/crayons/markers/markers/views.py",
+		"/Users/slethik/Documents/crayons/markers/markers/urls.py",
+		"/Users/slethik/Documents/crayons/markers/markers/wsgi.py",
+		"/Users/slethik/Documents/crayons/markers/voters/tests.py",
+		"/Users/slethik/Documents/crayons/markers/polls/tests.py",
+		"/Users/slethik/Google Drive/Projects/testing-goat/superlists/superlists/settings.py",
+		"/Users/slethik/Google Drive/Projects/testing-goat/superlists/functional_tests/tests.py",
+		"/Users/slethik/Google Drive/Projects/testing-goat/superlists/lists/tests.py",
+		"/Users/slethik/Documents/crayons/crayons/config.xml",
+		"/Users/slethik/Documents/crayons/crayons/www/index.html",
+		"/Users/slethik/Documents/sample/sample/www/icon.png",
+		"/Users/slethik/Documents/sample/sample/platforms/browser/index.html",
+		"/Users/slethik/Documents/sample/sample/platforms/browser/browser.json",
+		"/Users/slethik/Documents/sample/sample/www/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hero",
+			"filer",
+			"HeroDet",
+			"import",
+			"router",
+			"next_",
+			"next",
+			"route",
+			"imple",
+			"implents",
+			"\n	",
+			"my-app",
+			"App",
+			"heroes",
+			"sig",
+			"inspect",
+			"kwargs",
+			"args",
+			"def",
+			"\n		",
+			"selectedHero",
+			"loading",
+			">>",
+			">>>",
+			">>>>>",
+			">>",
+			">>>>",
+			"=======",
+			"<<<<<",
+			"conflict",
+			"rest_fram",
+			"rest",
+			"valida"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hero"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crayons.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dash",
+				"app/dashboard.component.ts"
+			],
+			[
+				"index",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
